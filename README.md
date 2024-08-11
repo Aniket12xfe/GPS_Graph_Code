@@ -9,42 +9,7 @@ This Python script calculates the shortest path between geographical locations u
 2. **Run the Script:**
    ```sh
    python shortestPath.py
-# Shortest Path Calculation
 
-## Usage Example
-
-```shell
-C:\Users\anike\AppData\Local\Programs\Python\Python39\python.exe "D:\Python Program\com\company\Cosmica GPS\shortestPath.py" 
-Enter the number of edges in the graph: 3
-Enter the starting node: A
-Enter the ending node: C
-Enter the latitude of A: 18.5305
-Enter the latitude of A: 73.8472
-Enter the latitude of C: 18.5974
-Enter the latitude of C: 73.7187
-Enter the starting node: B
-Enter the ending node: C
-Enter the latitude of B: 18.5074
-Enter the latitude of B: 73.8077
-Enter the latitude of C: 18.5974
-Enter the latitude of C: 73.7187
-Enter the starting node: C
-Enter the ending node: D
-Enter the latitude of C: 18.5974
-Enter the latitude of C: 73.7187
-Enter the latitude of D: 18.5987
-Enter the latitude of D: 73.7706
-Enter the start point: A
-Enter the end point: D
-Path: A (N) ----> C (NW) ----> D (NE)
-Shortest distance covered: 20.92 km
-
-Vertex		Distance from Source
-C		0.00 km
-C		15.45 km
-D		20.92 km
-
-Process finished with exit code 0**
 
 # Shortest Path Calculator
 
@@ -73,3 +38,40 @@ Contributions are welcome! If you'd like to contribute, please submit a Pull Req
 - **Code Blocks:** Proper usage of code blocks for both commands and script outputs.
 - **Instructions:** Step-by-step guide on how to run the script and what input/output to expect.
 - **Example Use Case:** Added a section explaining a potential use case for the script.
+
+## Output:
+# Shortest Path Calculation
+
+## Usage Example
+
+```shell
+ C:\Users\anike\AppData\Local\Programs\Python\Python39\python.exe "D:\Python Program\com\company\Cosmica GPS\shortestPath.py"
+Enter the number of edges in the graph: 3
+Enter the starting node: A
+Enter the ending node: C
+Enter the latitude of A: 18.5305
+Enter the latitude of A: 73.8472
+Enter the latitude of C: 18.5974
+Enter the latitude of C: 73.7187
+Enter the starting node: B
+Enter the ending node: C
+Enter the latitude of B: 18.5074
+Enter the latitude of B: 73.8077
+Enter the latitude of C: 18.5974
+Enter the latitude of C: 73.7187
+Enter the starting node: C
+Enter the ending node: D
+Enter the latitude of C: 18.5974
+Enter the latitude of C: 73.7187
+Enter the latitude of D: 18.5987
+Enter the latitude of D: 73.7706
+Enter the start point: A
+Enter the end point: D
+Path: A (N) ----> C (NW) ----> D (NE)
+Shortest distance covered: 20.92 km
+
+Vertex         Distance from Source
+C              0.00 km
+C              15.45 km
+D              20.92 km
+Process finished with exit code 0
