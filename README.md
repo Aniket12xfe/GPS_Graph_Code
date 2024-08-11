@@ -45,7 +45,7 @@ Contributions are welcome! If you'd like to contribute, please submit a Pull Req
 ## Usage Example
 
 ```shell
- C:\Users\anike\AppData\Local\Programs\Python\Python39\python.exe "D:\Python Program\com\company\Cosmica GPS\shortestPath.py"
+C:\Users\anike\AppData\Local\Programs\Python\Python39\python.exe "D:\Python Program\com\company\Cosmica GPS\shortestPath.py"
 Enter the number of edges in the graph: 3
 Enter the starting node: A
 Enter the ending node: C
