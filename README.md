@@ -50,21 +50,21 @@ Enter the number of edges in the graph: 3
 Enter the starting node: A
 Enter the ending node: C
 Enter the latitude of A: 18.5305
-Enter the latitude of A: 73.8472
+Enter the longitude of A: 73.8472
 Enter the latitude of C: 18.5974
-Enter the latitude of C: 73.7187
+Enter the longitude of C: 73.7187
 Enter the starting node: B
 Enter the ending node: C
 Enter the latitude of B: 18.5074
-Enter the latitude of B: 73.8077
+Enter the longitude of B: 73.8077
 Enter the latitude of C: 18.5974
-Enter the latitude of C: 73.7187
+Enter the longitude of C: 73.7187
 Enter the starting node: C
 Enter the ending node: D
 Enter the latitude of C: 18.5974
-Enter the latitude of C: 73.7187
+Enter the longitude of C: 73.7187
 Enter the latitude of D: 18.5987
-Enter the latitude of D: 73.7706
+Enter the longitude of D: 73.7706
 Enter the start point: A
 Enter the end point: D
 Path: A (N) ----> C (NW) ----> D (NE)
