@@ -9,7 +9,9 @@ This Python script calculates the shortest path between geographical locations u
 2. **Run the Script:**
    ```sh
    python shortestPath.py
-C:\Users\anike\AppData\Local\Programs\Python\Python39\python.exe "D:\Python Program\com\company\Cosmica GPS\shortestPath.py" 
+
+   
+**C:\Users\anike\AppData\Local\Programs\Python\Python39\python.exe "D:\Python Program\com\company\Cosmica GPS\shortestPath.py" 
 Enter the number of edges in the graph: 3
 Enter the starting node: A
 Enter the ending node: C
@@ -39,7 +41,7 @@ C		0.00 km
 C		15.45 km
 D		20.92 km
 
-Process finished with exit code 0
+Process finished with exit code 0**
 
 # Shortest Path Calculator
 
