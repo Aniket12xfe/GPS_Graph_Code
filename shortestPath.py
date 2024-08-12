@@ -75,9 +75,9 @@ def create_graph():
         start_node = input("Enter the starting node: ")
         end_node = input("Enter the ending node: ")
         lat1 = float(input(f"Enter the latitude of {start_node}: "))
-        lon1 = float(input(f"Enter the latitude of {start_node}: "))
+        lon1 = float(input(f"Enter the longitude of {start_node}: "))
         lat2 = float(input(f"Enter the latitude of {end_node}: "))
-        lon2 = float(input(f"Enter the latitude of {end_node}: "))
+        lon2 = float(input(f"Enter the longitude of {end_node}: "))
 
         distance = haversine(lat1, lon1, lat2, lon2)
         direction = determine_direction(lat1, lon1, lat2, lon2)
